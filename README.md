@@ -10,7 +10,9 @@
   🛠️ The <b><span style="color:#FFD700;">Tools</span></b> and <b><span style="color:#00CED1;">Sites</span></b> are for  
   <span style="color:#FF4500;">Web Developers</span> & <span style="color:#8A2BE2;">Designers</span> as resources 📚
 </p>
- 
+
+![Typing](https://img.shields.io/badge/✨-COLOURS_THEORY-F17373?style=for-the-badge)
+
 1. https://colorhunt.co
 2. https://klart.io
 3. https://color.adobe.com
@@ -26,6 +28,7 @@
 13. https://javier.xyz/cohesive-colors/
 14. https://www.colorinspire.io/
 
+![Typing](https://img.shields.io/badge/✨-STOCK_IMAGES-F17373?style=for-the-badge)
 1. https://unsplash.com/
 2. https://www.pexels.com/
 3. https://pixabay.com/
@@ -45,7 +48,7 @@
 17. https://freephotos.cc/
 18. https://startupstockphotos.com
 
-
+![Typing](https://img.shields.io/badge/✨-STOCK_PNGS-F17373?style=for-the-badge)
 1. https://www.kisspng.com
 2. http://pngimg.com/
 3. https://www.footyrenders.com/
@@ -58,7 +61,7 @@
 10. https://www.freepngs.com/
 11. http://www.pngmart.com/
 
-
+![Typing](https://img.shields.io/badge/✨-STOCK_VIDEOS-F17373?style=for-the-badge)
 1. https://mixkit.co
 2. https://coverr.co
 3. https://www.motionplaces.com
@@ -70,7 +73,7 @@
 9. http://www.movietools.info/
 10. https://www.monzoom.com
 
-
+![Typing](https://img.shields.io/badge/✨-DESIGN_INSPIRATION-F17373?style=for-the-badge)
 1. https://www.inspirationde.com
 2. https://www.designspiration.net
 3. https://www.pinterest.com
@@ -81,7 +84,7 @@
 8. https://www.awwwards.com/websites
 9. https://onepagelove.com
 
-
+![Typing](https://img.shields.io/badge/✨-LOGO_INSPIRATION-F17373?style=for-the-badge)
 1. https://www.logomoose.com
 2. https://logopond.com
 3. https://www.logolounge.com
@@ -89,7 +92,7 @@
 5. http://www.logotalkz.com
 6. http://logospire.com
 
-
+![Typing](https://img.shields.io/badge/✨-USERINTERFACE__UI__-F17373?style=for-the-badge)
 1. https://inspired-ui.com
 2. https://www.calltoidea.com
 3. https://www.mobile-patterns.com
@@ -98,7 +101,7 @@
 6. https://www.iosicongallery.com
 7. https://ugarage.net
 
- 
+ ![Typing](https://img.shields.io/badge/✨-MOCKUPS-F17373?style=for-the-badge)
 1. https://mockupsforfree.com/
 2. https://www.mockupworld.co
 3. https://graphicburger.com
@@ -113,7 +116,7 @@
 12. https://barnimages.com/freebies/
 13. https://www.ls.graphics/free
 
-
+![Typing](https://img.shields.io/badge/✨-RESOURCES-F17373?style=for-the-badge)
 1. https://www.freepik.com
 2. https://all-free-download.com
 3. https://www.vecteezy.com
@@ -123,7 +126,7 @@
 7. https://freepsdfiles.net
 8. https://www.graphicsfuel.com
 
-
+![Typing](https://img.shields.io/badge/✨-BRUSHES-F17373?style=for-the-badge)
 1. https://www.brushking.eu/
 2. https://www.brusheezy.com/brushes
 3. https://myphotoshopbrushes.com/
@@ -136,7 +139,7 @@
 10. http://bit.ly/2JcrXBq
 11. https://www.brush-photoshop.fr/
 
-
+![Typing](https://img.shields.io/badge/✨-ICONS-F17373?style=for-the-badge)
 1. https://www.flaticon.com
 2. https://freeicons.io
 3. https://iconstore.co
