@@ -1,6 +1,16 @@
-*Designers only for you no need to thanks* 
- _Just follow us and forward it to your friends_ 
+<h2 align="center">🎨 <span style="color:#FF5733;">Designers only for you</span> — <span style="color:#28A745;">no need to thanks</span> 🎉</h2>
 
+<p align="center">
+  <i>✨ Just <span style="color:#1E90FF;">follow us</span> and <span style="color:#FF1493;">share it with your friends</span> ✨</i>
+</p>
+
+---
+
+<p align="center">
+  🛠️ The <b><span style="color:#FFD700;">Tools</span></b> and <b><span style="color:#00CED1;">Sites</span></b> are for  
+  <span style="color:#FF4500;">Web Developers</span> & <span style="color:#8A2BE2;">Designers</span> as resources 📚
+</p>
+ 
 1. https://colorhunt.co
 2. https://klart.io
 3. https://color.adobe.com
